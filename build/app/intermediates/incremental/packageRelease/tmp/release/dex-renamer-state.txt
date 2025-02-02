@@ -1,4 +1,0 @@
-#Sun Feb 02 22:05:00 IST 2025
-base.0=/home/prandeep/Desktop/Akshay Edit Fanta/fantaschedina/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
